@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 
 
-Hello, I'm a trainee
+Hello, I am a junior software developer!
